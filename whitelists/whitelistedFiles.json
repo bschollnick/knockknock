@@ -17,5 +17,12 @@
 	"/System/Library/Extensions/JMicronATA.kext/Contents/MacOS/JMicronATA":["9c8207d44446861a5b40e2ac4c6f5dba"],
 	"/usr/libexec/configureLocalKDC":["19f6e328d0286ad7f81ee8224e369726"],
 	"/usr/libexec/locate.updatedb":["e8cc729ae05233c414eb0c672d836fc1"],
-	"/usr/libexec/ntpd-wrapper":["baf0968c6df24734e079baeb01851221"]
+	"/usr/libexec/ntpd-wrapper":["baf0968c6df24734e079baeb01851221"],
+    "/Applications/Box Sync.app/Contents/MacOS/Box Sync":["cc7c5b897a491e476dc1631c66b7b486"],
+    "/Applications/Dropbox.app/Contents/MacOS/Dropbox":["7041109b4e2675c35f8bdeeb3a9db41f"],
+    "/Library/PrivilegedHelperTools/com.bombich.ccchelper":["540c99be99538db98a60d06f88a078cb"],
+    "/Library/Application Support/iStat Menus 5/iStatMenusAgent.app/Contents/MacOS/iStatMenusAgent":["591c0cb594248f2c04dfd7bc71dbab1f"],
+    "/Library/Application Support/iStat Menus 5/iStat Menus Notifications.app/Contents/MacOS/iStat Menus Notifications":["0f56b409c8c2d2f7e3fb1cc377da0e83"],
+    "/Applications/Utilities/DeployStudio Admin.app/Contents/sbin/DeployStudioServer":["faae3571a61077311bc15571cd55e278"],
+    "/Library/Application Support/iStat Menus 5/iStatMenusDaemon":["f37a855b36d843f05c8e6085426970f0"]
 }
